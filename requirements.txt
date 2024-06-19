@@ -1,0 +1,4 @@
+coverage==7.5.3
+folium==0.17.0
+matplotlib==3.7.1
+pandas==1.5.3
