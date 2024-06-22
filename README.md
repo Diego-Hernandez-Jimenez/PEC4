@@ -74,7 +74,7 @@ Introduzca la ruta y el nombre del fichero que se va a guardar
 (Pulse Enter si no desea guardar el mapa generado)
 ```
 
-que resulta autoexplicativa.
+Por ejemplo, para guardar el mapa en la carpeta \data (estando en \PEC4), se escribiría "data\us_guns_map.html" (sin las comillas).
 
 
 ### Módulos aislados
